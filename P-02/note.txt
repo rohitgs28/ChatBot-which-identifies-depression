@@ -1,5 +1,0 @@
-1. the revised version has a clearer image 
-2. citation mistake in fifth line from bottom of the first page:
-   "a niave bayesian classifier is used in [3][4]" should be 
-   "a niave bayesian classifier is used in [3][5]"
-   it should be a typing error.  
