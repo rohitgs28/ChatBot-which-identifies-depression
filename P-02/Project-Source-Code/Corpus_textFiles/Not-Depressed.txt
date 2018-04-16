@@ -1,0 +1,184 @@
+27674,2,24h,I was happy when my son got 90% marks in his examination ,I was happy when my son got 90% marks in his examination ,True,1,,affection
+27675,1936,24h,I went to the gym this morning and did yoga.,I went to the gym this morning and did yoga.,True,1,,exercise
+27676,206,24h,We had a serious talk with some friends of ours who have been flaky lately. They understood and we had a good evening hanging out.,We had a serious talk with some friends of ours who have been flaky lately. They understood and we had a good evening hanging out.,True,2,bonding,bonding
+27677,6227,24h,"I went with grandchildren to butterfly display at Crohn Conservatory
+","I went with grandchildren to butterfly display at Crohn Conservatory
+",True,1,,affection
+27678,45,24h,I meditated last night.,I meditated last night.,True,1,leisure,leisure
+27679,195,24h,"I made a new recipe for peasant bread, and it came out spectacular!","I made a new recipe for peasant bread, and it came out spectacular!",True,1,,achievement
+27680,740,24h,I got gift from my elder brother which was really surprising me,I got gift from my elder brother which was really surprising me,True,1,,affection
+27681,3,24h,YESTERDAY MY MOMS BIRTHDAY SO I ENJOYED,YESTERDAY MY MOMS BIRTHDAY SO I ENJOYED,True,1,,enjoy_the_moment
+27682,4833,24h,Watching cupcake wars with my three teen children,Watching cupcake wars with my three teen children,True,1,,affection
+27683,7334,24h,I came in 3rd place in my Call of Duty video game.,I came in 3rd place in my Call of Duty video game.,True,1,,leisure
+27684,78,24h,I completed my 5 miles run without break. It makes me feel strong.,I completed my 5 miles run without break. It makes me feel strong.,True,2,,exercise
+27685,21,24h,went to movies with my friends it was fun ,went to movies with my friends it was fun ,True,1,,bonding
+27686,8,24h,I was shorting Gold and made $200 from the trade.,I was shorting Gold and made $200 from the trade.,True,1,,achievement
+27687,586,24h,"Hearing Songs It can be nearly impossible to go from angry to happy, so youare just looking for the thought that eases you out of your angry feeling and moves you in the direction of happiness. It may take a while, but as long as youare headed in a more positive direction youall be doing yourself a world of good.","Hearing Songs It can be nearly impossible to go from angry to happy, so you're just looking for the thought that eases you out of your angry feeling and moves you in the direction of happiness. It may take a while, but as long as you're headed in a more positive direction youall be doing yourself a world of good.",False,2,,enjoy_the_moment
+27688,489,24h,My son performed very well for a test preparation.,My son performed very well for a test preparation.,True,1,,affection
+27689,976,24h,I helped my neighbour to fix their car damages. ,I helped my neighbour to fix their car damages. ,True,1,,bonding
+27690,3972,24h,Managed to get the final trophy in a game I was playing. ,Managed to get the final trophy in a game I was playing. ,True,1,,achievement
+27691,14,24h,A hot kiss with my girl friend last night made my day,A hot kiss with my girl friend last night made my day,True,1,,bonding
+27692,1230,24h,My new BCAAs came in the mail. Yay! Strawberry Lemonade flavored aminos make my heart happy.,My new BCAAs came in the mail. Yay! Strawberry Lemonade flavored aminos make my heart happy.,True,3,,affection
+27693,9950,24h,Got A in class.,Got A in class.,True,1,,achievement
+27694,4862,24h,My sister called me from abroad this morning after some long years. Such a happy occassion for all family members.,My sister called me from abroad this morning after some long years. Such a happy occassion for all family members.,True,2,,affection
+27695,4891,24h,The cake I made today came out amazing. It tasted amazing as well.,The cake I made today came out amazing. It tasted amazing as well.,True,2,,achievement
+27696,737,24h,"There are two types of people in the world: those who choose to be happy, and those who choose to be unhappy. Contrary to popular belief, happiness doesnat come from fame, fortune, other people, or material possessions","There are two types of people in the world: those who choose to be happy, and those who choose to be unhappy. Contrary to popular belief, happiness doesn't come from fame, fortune, other people, or material possessions",False,2,,enjoy_the_moment
+27697,498,24h,My grandmother start to walk from the bed after a long time.,My grandmother start to walk from the bed after a long time.,True,1,affection,affection
+27698,2124,24h,i was able to hit a top spin serve in tennis,i was able to hit a top spin serve in tennis,True,1,,achievement
+27699,156,24h,I napped with my husband on the bed this afternoon and it was sweet to cuddle so close to him.,I napped with my husband on the bed this afternoon and it was sweet to cuddle so close to him.,True,1,,affection
+27700,1783,24h,My co-woker started playing a Carley Rae Jepsen song from her phone while ringing out customers.,My co-woker started playing a Carley Rae Jepsen song from her phone while ringing out customers.,True,1,,leisure
+27701,3382,24h,"My son woke me up to a fantastic breakfast of eggs, his special hamburger patty and pancakes. ","My son woke me up to a fantastic breakfast of eggs, his special hamburger patty and pancakes. ",True,1,,affection
+27702,54,24h,After a long time my brother gave a suprise visit to my house yesterday.,After a long time my brother gave a suprise visit to my house yesterday.,True,1,,affection
+27703,794,24h,I went to the movies with my sister today for the first time since a long time.,I went to the movies with my sister today for the first time since a long time.,True,1,,affection
+27704,1510,24h,I consumed a well garnished bowl of ramen twice today. It was so delicious.,I consumed a well garnished bowl of ramen twice today. It was so delicious.,True,2,,achievement
+27705,5732,24h,I picked my daughter up from the airport and we have a fun and good conversation on the way home.,I picked my daughter up from the airport and we have a fun and good conversation on the way home.,True,1,bonding,affection
+27706,6215,24h,"My daughter waved at me and said ""mama"" for the first time when I came home this morning","My daughter waved at me and said ""mama"" for the first time when I came home this morning",True,1,,affection
+27707,402,24h,Going to the mountains and hiking the trail to the top.,Going to the mountains and hiking the trail to the top.,True,1,,nature
+27708,2957,24h,"We were competing against another team in a online game, I was playing with my friends most of them were my childhood friends,
+we grew up together and went to the same school since we're just kids. We've been playing this game together for almost 2 years
+now and we kinda formed a team for ourselves for this game. The game started smoothly and everyone was being hyped about the fight.
+Slowly, things started to become interesting and exciting then before we know it it became a close fight where the score was 2-2,
+1 more point
+and the winner will be declared. Everyone was looking up to me since they knew I was the best within my friends in
+this particular game. I started commanding them to what to do and what to expect against our enemies. This game,
+ It was a team based game, 5 vs 5. My team was starting to fail and demoralization ensues
+but I tried and did my best, before I knew it, we won! I maneuvered through each attack of the enemy and with skill
+and with some luck I dodged and countered them.","We were competing against another team in a online game, I was playing with my friends most of them were my childhood friends,
+we grew up together and went to the same school since we're just kids. We've been playing this game together for almost 2 years
+now and we kinda formed a team for ourselves for this game. The game started smoothly and everyone was being hyped about the fight.
+Slowly, things started to become interesting and exciting then before we know it it became a close fight where the score was 2-2,
+1 more point
+and the winner will be declared. Everyone was looking up to me since they knew I was the best within my friends in
+this particular game. I started commanding them to what to do and what to expect against our enemies. This game,
+ It was a team based game, 5 vs 5. My team was starting to fail and demoralization ensues
+but I tried and did my best, before I knew it, we won! I maneuvered through each attack of the enemy and with skill
+and with some luck I dodged and countered them.",True,9,,bonding
+27709,261,24h,"I went for a run in the neighborhood. I enjoyed the perfect weather.
+","I went for a run in the neighborhood. I enjoyed the perfect weather.
+",True,2,,nature
+27710,516,24h,I hang out with my fiancee and we had dinner together,I hang out with my fiancee and we had dinner together,True,1,,affection
+27711,1215,24h,The offsite with colleagues was great fun. We had stimulating discussions.,The offsite with colleagues was great fun. We had stimulating discussions.,True,2,,bonding
+27712,848,24h,My older daughter keeps patting my younger daughter's head.,My older daughter keeps patting my younger daughter's head.,True,1,,affection
+27713,396,24h,"I was feeling lonely after a long day's work. When I called my husband, he said he is on the way to pick me up as his meeting was over. I was surprised and excited.","I was feeling lonely after a long day's work. When I called my husband, he said he is on the way to pick me up as his meeting was over. I was surprised and excited.",True,3,,affection
+27714,4,24h,I received an award for my work on a tough loan process that I helped develop.,I received an award for my work on a tough loan process that I helped develop.,True,1,,achievement
+27715,2272,24h,when i received flowers from my best friend,when i received flowers from my best friend,True,1,bonding,bonding
+27716,157,24h,"My spouse gave me a kiss and big hug in the morning,when i go to office","My spouse gave me a kiss and big hug in the morning,when i go to office",True,1,,affection
+27717,466,24h,My son gave me a big hug in the morning,My son gave me a big hug in the morning,True,1,,affection
+27718,1566,24h,I cooked and ate a wonderful sausage and cheese omelet.,I cooked and ate a wonderful sausage and cheese omelet.,True,1,,enjoy_the_moment
+27719,36,24h,I achieved my daily income goal.,I achieved my daily income goal.,True,1,,achievement
+27720,2019,24h,i met my favorite superstar for the first time,i met my favorite superstar for the first time,True,1,,bonding
+27721,4109,24h,"I remember yesterday as being totally different from many of my Mondays. It felt like Spring finally, the sun was bright, the temperatures were warm.","I remember yesterday as being totally different from many of my Mondays. It felt like Spring finally, the sun was bright, the temperatures were warm.",True,2,,nature
+27722,373,24h,I ate a very good dinner with my family,I ate a very good dinner with my family,True,1,,affection
+27723,389,24h,I went shopping ,I went shopping ,True,1,leisure,leisure
+27724,10576,24h,The phone that I have ordered in a local online store was delivered this morning. I like the phone so much!,The phone that I have ordered in a local online store was delivered this morning. I like the phone so much!,True,2,enjoy_the_moment,enjoy_the_moment
+27725,2129,24h,TODAY MORNING MY SON'S EXAM RESULTS CAME. HE HAD GOT DISTINCTION THAT IS FIRST GRADE  IN ALL SUBJECTS I FELT VERY HAPPY,TODAY MORNING MY SON'S EXAM RESULTS CAME. HE HAD GOT DISTINCTION THAT IS FIRST GRADE  IN ALL SUBJECTS I FELT VERY HAPPY,True,2,,achievement
+27726,383,24h,I bought a new TV,I bought a new TV,True,1,achievement,achievement
+27727,553,24h,Our national cricket team won the test match and the series this morning. This win sealed our position as the no.1 Test team in the world. This made me very happy today.,Our national cricket team won the test match and the series this morning. This win sealed our position as the no.1 Test team in the world. This made me very happy today.,True,3,,achievement
+27728,311,24h,I made a bunch of extra sales in my side business last night.,I made a bunch of extra sales in my side business last night.,True,1,,achievement
+27729,104,24h,I walked to work and back with my partner.,I walked to work and back with my partner.,True,1,,affection
+27730,3284,24h,I got a promotion today after 2 years of service at my job.,I got a promotion today after 2 years of service at my job.,True,1,,achievement
+27731,2776,24h,My sister and I had a long chat about what was happening in our lives right now. I enjoyed reconnecting with her.,My sister and I had a long chat about what was happening in our lives right now. I enjoyed reconnecting with her.,True,2,,affection
+27732,25,24h,I woke up early in the morning at 7 am against daily of 8:30 am,I woke up early in the morning at 7 am against daily of 8:30 am,True,1,,achievement
+27733,257,24h,my partner buy a big cake for me its very nice and tasty .i never expect the cake from my partner he really loves me lot .the cake is very delicious and very cold .the taste was very different compared to other cake .the day was went very interesting and i spent most of the time with my partner .we went to movie and we had a fun .i really miss my partner and after that most of the day i love to spent with him.,my partner buy a big cake for me its very nice and tasty .i never expect the cake from my partner he really loves me lot .the cake is very delicious and very cold .the taste was very different compared to other cake .the day was went very interesting and i spent most of the time with my partner .we went to movie and we had a fun .i really miss my partner and after that most of the day i love to spent with him.,True,1,,affection
+27734,13224,24h,when i logged on to account on m-turk i saw that all the pending hits  have got approved and i still had 100% acceptance   ,when i logged on to account on m-turk i saw that all the pending hits  have got approved and i still had 100% acceptance   ,True,1,,achievement
+27735,1377,24h,I slow cooked a chuck roast on my stove that came out great.,I slow cooked a chuck roast on my stove that came out great.,True,1,achievement,achievement
+27736,5652,24h,I saw two close friends that I haven't seen for a couple months.,I saw two close friends that I haven't seen for a couple months.,True,1,,bonding
+27737,57,24h,I cooked my girlfriend a wonderful breakfast.,I cooked my girlfriend a wonderful breakfast.,True,1,,affection
+27738,612,24h,Today morning I was selected as a Junior Engineer for a leading and familiar mobile sales company.,Today morning I was selected as a Junior Engineer for a leading and familiar mobile sales company.,True,1,,achievement
+27739,2646,24h,"a smile from my son faces make be happy everyday, today also I got it","a smile from my son faces make be happy everyday, today also I got it",True,1,,affection
+27740,2794,24h,I was happy when one of my day trade gave me good profit today. ,I was happy when one of my day trade gave me good profit today. ,True,1,,achievement
+27741,3797,24h,I took my dog for a long walk on a beautiful day.,I took my dog for a long walk on a beautiful day.,True,1,,affection
+27742,9885,24h,"I was running around after the kids and my husband grabbed me and told me I was beautiful, perfect, smart, special and that he loved me. ","I was running around after the kids and my husband grabbed me and told me I was beautiful, perfect, smart, special and that he loved me. ",True,1,,affection
+27743,6186,24h,"My 3yrs son felt very bad for kicking me and said "" mom i'm very sorry for kicking you i wont repeat this"".I felt happy in this age he realizes his mistake.","My 3yrs son felt very bad for kicking me and said "" mom i'm very sorry for kicking you i wont repeat this"".I felt happy in this age he realizes his mistake.",True,1,,affection
+27744,491,24h,"Long ago, men went to sea, and women waited for them, standing on the edge of the water, scanning the horizon for the tiny ship. Now I wait for Henry. He vanishes unwillingly, without warning. I wait for him. Each moment that I wait feels like a year, an eternity. My husband is comedy man and that moment is happy mood.My baby born   in this moment.","Long ago, men went to sea, and women waited for them, standing on the edge of the water, scanning the horizon for the tiny ship. Now I wait for Henry. He vanishes unwillingly, without warning. I wait for him. Each moment that I wait feels like a year, an eternity. My husband is comedy man and that moment is happy mood.My baby born   in this moment.",True,6,,affection
+27745,1020,24h,I lost 2 kgs of weight after a month long effort I had put to achieve it.,I lost 2 kgs of weight after a month long effort I had put to achieve it.,True,1,achievement,achievement
+27746,1625,24h,"i finally learned to cook chicken
+","i finally learned to cook chicken
+",True,1,achievement,achievement
+27747,1782,24h,My girlfriend told me she loved me and that she hoped to marry me one day. ,My girlfriend told me she loved me and that she hoped to marry me one day. ,True,1,,affection
+27748,330,24h,"I was very tired after work, but I still managed to go for a 12 mile bicycle ride. This is great since I had knee surgery 2 months ago.","I was very tired after work, but I still managed to go for a 12 mile bicycle ride. This is great since I had knee surgery 2 months ago.",True,2,,achievement
+27749,589,24h,I took my girlfriend out for a nice Birthday dinner and got to watch her open her presents. It was a really fun evening.,I took my girlfriend out for a nice Birthday dinner and got to watch her open her presents. It was a really fun evening.,True,2,,affection
+27750,35,24h,Going for some running and exercising after three days break.,Going for some running and exercising after three days break.,True,1,,exercise
+27751,524,24h,I did my income taxes for this year and I have a nice refund coming.,I did my income taxes for this year and I have a nice refund coming.,True,1,,achievement
+27752,477,24h,"Everyone works at his own pace, so why compare yourself to others? If you think youare better than someone else, you gain an unhealthy sense of superiority. If you think someone else is better than you, you end up feeling bad about yourself. Youall be happier if you focus on your own progress and praise others on theirs.","Everyone works at his own pace, so why compare yourself to others? If you think you're better than someone else, you gain an unhealthy sense of superiority. If you think someone else is better than you, you end up feeling bad about yourself. Youall be happier if you focus on your own progress and praise others on theirs.",False,4,,enjoy_the_moment
+27753,37,24h,I was able to do 150 push-ups today which is the highest I've done. ,I was able to do 150 push-ups today which is the highest I've done. ,True,1,,achievement
+27754,215,24h,My Mother gave me a surprise visit at my home.,My Mother gave me a surprise visit at my home.,True,1,,affection
+27755,2416,24h,We celebrated our anniversary with my boyfriend.,We celebrated our anniversary with my boyfriend.,True,1,,affection
+27756,8589,24h,We booked our beach vacation for May of this year.,We booked our beach vacation for May of this year.,True,1,,leisure
+27757,237,24h,After a long time of waiting i finally got my tickets for my favourite movie released yesterday that too for a first day first show.It was really an awesome feeling still i could feel it all the way.I get goosebumps when i relive the moment in theatre.,After a long time of waiting i finally got my tickets for my favourite movie released yesterday that too for a first day first show.It was really an awesome feeling still i could feel it all the way.I get goosebumps when i relive the moment in theatre.,True,1,,enjoy_the_moment
+27758,69,24h,I met with my city mayor and given valuable advice for development of city.,I met with my city mayor and given valuable advice for development of city.,True,1,,achievement
+27759,648,24h,INDIA WON THE SERIES AGAINST AUSTRALIA MADE ME TO FEEL HAPPY,INDIA WON THE SERIES AGAINST AUSTRALIA MADE ME TO FEEL HAPPY,True,1,enjoy_the_moment,enjoy_the_moment
+27760,1833,24h,I finished painting my granddaughters bedroom,I finished painting my granddaughters bedroom,True,1,,achievement
+27761,1430,24h,After taking some off at the gym(due to illness) I was able to wake up early and complete my normal squat workout at the same weight I had done prior to my break. ,After taking some off at the gym(due to illness) I was able to wake up early and complete my normal squat workout at the same weight I had done prior to my break. ,True,1,,exercise
+27762,15,24h,Last night my sister born a baby and I got new relation which is UNCLE this is happiest moment for me.,Last night my sister born a baby and I got new relation which is UNCLE this is happiest moment for me.,True,1,,affection
+27763,1300,24h,I got a new phone and it is great because I have never had a phone before. ,I got a new phone and it is great because I have never had a phone before. ,True,1,,achievement
+27764,102,24h,My son results is today its got very good he scored 99% in school its so happy to see the results,My son results is today its got very good he scored 99% in school its so happy to see the results,True,1,affection,affection
+27765,449,24h,I got travel visa as a tourist for 3 months to Australia,I got travel visa as a tourist for 3 months to Australia,True,1,,achievement
+27766,555,24h,"Hi, The thing that made me happy is, I have finished all my tasks in my office and got appreciation from team leader for the work done yesterday that moment made me happy in the past 24 hours.  Yesterday I performed well and this is the first time I got team topper position that moment made me happy.","Hi, The thing that made me happy is, I have finished all my tasks in my office and got appreciation from team leader for the work done yesterday that moment made me happy in the past 24 hours.  Yesterday I performed well and this is the first time I got team topper position that moment made me happy.",True,2,,achievement
+27767,2628,24h,I could do 108 suryanamaskars in 40 mins for which I would otherwise take 60 mins!!,I could do 108 suryanamaskars in 40 mins for which I would otherwise take 60 mins!!,True,2,,achievement
+27768,1028,24h,"We know that sleep helps our bodies to recover from the day and repair themselves, and that it helps us focus and be more productive. It turns out, itas also important for our happiness.Our commute to the office can have a surprisingly powerful impact on our happiness.","We know that sleep helps our bodies to recover from the day and repair themselves, and that it helps us focus and be more productive. It turns out, itas also important for our happiness.Our commute to the office can have a surprisingly powerful impact on our happiness.",True,2,,enjoy_the_moment
+27769,76,24h,I went to sportsclub and did running and exercise that's why I feel very fresh and happy.,I went to sports club and did running and exercise that's why I feel very fresh and happy.,False,1,,exercise
+27770,689,24h,I got engaged with my parents support,I got engaged with my parents support,True,1,,affection
+27771,5046,24h,I found a poet that I really love a lot on twitter. ,I found a poet that I really love a lot on twitter. ,True,1,,enjoy_the_moment
+27772,5116,24h,There was hardly any traffic on my way to work this morning.,There was hardly any traffic on my way to work this morning.,True,1,,enjoy_the_moment
+27773,1199,24h,I got very happy because of doing more task in mechanical turk and got more reward points. It made me to feel happy in the last 24 hours ,I got very happy because of doing more task in mechanical turk and got more reward points. It made me to feel happy in the last 24 hours ,True,2,,achievement
+27774,1517,24h,Seeing most of my friends and being able to catch up with them filled me with joy.,Seeing most of my friends and being able to catch up with them filled me with joy.,True,1,,bonding
+27775,251,24h,I came to my office at right time.,I came to my office at right time.,True,1,,achievement
+27776,681,24h,My family went to a wildlife park. It was so beautiful.,My family went to a wildlife park. It was so beautiful.,True,2,affection,affection
+27777,3704,24h,The day I got my degree in industrial engineering,The day I got my degree in industrial engineering,True,1,,achievement
+27778,738,24h,"Frankly, I am constipated over the past 2 days and not able to defecate, today my bowel got cleared that moment really makes me feel happy and my bowel feels well that moment makes me feel happy really.","Frankly, I am constipated over the past 2 days and not able to defecate, today my bowel got cleared that moment really makes me feel happy and my bowel feels well that moment makes me feel happy really.",True,1,,enjoy_the_moment
+27779,9896,24h,i read a great book about motivation and atitude,i read a great book about motivation and attitude,False,1,,leisure
+27780,932,24h,I won a cricket match and i played really well.,I won a cricket match and i played really well.,True,1,,achievement
+27781,8662,24h,One happy moment that happened to me in the past 24 hours would be that I went back to work today for the first time in 4 years. ,One happy moment that happened to me in the past 24 hours would be that I went back to work today for the first time in 4 years. ,True,1,,enjoy_the_moment
+27782,3147,24h,I woke up early this morning and witnessed a beautiful sunrise.,I woke up early this morning and witnessed a beautiful sunrise.,True,1,,enjoy_the_moment
+27783,1094,24h,Taking a nice warm shower. It was really good and relaxing.,Taking a nice warm shower. It was really good and relaxing.,True,2,,enjoy_the_moment
+27784,4148,24h,we went to vacation to my native place.my parents and siblings are there.it was great feel with my family.we ate a lot with my family and had a fun.,we went to vacation to my native place.my parents and siblings are there.it was great feel with my family.we ate a lot with my family and had a fun.,True,1,,affection
+27785,1057,24h,I saw a rainbow and it made me to feel very happy since i have never seen rainbow in reality.,I saw a rainbow and it made me to feel very happy since i have never seen rainbow in reality.,True,1,,nature
+27786,11573,24h,I Saw my Dad when i went to his office. He was so popular among his staff and Many people know him. This thing makes me happy for my Dad.,I Saw my Dad when i went to his office. He was so popular among his staff and Many people know him. This thing makes me happy for my Dad.,True,3,,affection
+27787,13,24h,Yesterday night I went for a movie with my family.We had great fun spending time together.,Yesterday night I went for a movie with my family.We had great fun spending time together.,True,1,,affection
+27788,2349,24h,"I went to office hour of one of my professors, and I realized that he was the most caring professor/mentor ever.","I went to office hour of one of my professors, and I realized that he was the most caring professor/mentor ever.",True,1,,achievement
+27789,24,24h,We all ladies member from my family went for a lunch at seven star hotel n it was so much fun when all ladies go together n gossip ,We all ladies member from my family went for a lunch at seven star hotel n it was so much fun when all ladies go together n gossip ,True,1,,affection
+27790,72,24h,A made quite the progress on an old rusty workbench I am restoring at the moment. With the new paint it looks like new.,A made quite the progress on an old rusty workbench I am restoring at the moment. With the new paint it looks like new.,True,2,achievement,achievement
+27791,2029,24h,When my wife came home from work and we shared a steak dinner together with a bottle of wine.,When my wife came home from work and we shared a steak dinner together with a bottle of wine.,True,1,,affection
+27792,120,24h,Julia was such a good girl last night on the lunge and was trying very very hard to do what was asked of him without getting panicky and throwing a resulting wobbles!,Julia was such a good girl last night on the lunge and was trying very very hard to do what was asked of him without getting panicky and throwing a resulting wobbles!,True,1,,affection
+27793,266,24h,"my son went to football match with his friends, he came home very happy that his team won the match.seeing him happy we felt very happy.","my son went to football match with his friends, he came home very happy that his team won the match.seeing him happy we felt very happy.",True,1,,affection
+27794,3009,24h,In the morning my 2 years daughter apply ointment for my severe headache.,In the morning my 2 years daughter apply ointment for my severe headache.,True,1,,affection
+27795,479,24h,Getting all my errands done and completed.,Getting all my errands done and completed.,True,1,achievement,achievement
+27796,905,24h,gathering with old friends from school,gathering with old friends from school,True,1,,bonding
+27797,2032,24h,"Today I was happier than usual because I ate all my veggies that I put on my plate. I usually leave some leaves on the plate, but not today.","Today I was happier than usual because I ate all my veggies that I put on my plate. I usually leave some leaves on the plate, but not today.",True,2,,enjoy_the_moment
+27798,820,24h,I was able to beat my record for bench press,I was able to beat my record for bench press,True,1,,achievement
+27799,341,24h,Summer holidays have began for my kids and i was happy,Summer holidays have began for my kids and i was happy,True,1,,affection
+27800,455,24h,"This is the second essay in a two-part series about my journey to visit the Taj Mahal. Read the first part for the whole story.
+27844,50,24h,i brought a new mobile to day morning,i brought a new mobile to day morning,True,1,,achievement
+27845,179,24h,I enjoyed play Soccer with my brother,I enjoyed play Soccer with my brother,True,1,affection,affection
+27846,11620,24h,I went power walking in the local mall. Many of the walkers smiled and waved.,I went power walking in the local mall. Many of the walkers smiled and waved.,True,2,,leisure
+27847,1773,24h,"A happy moment was when my granddaughter gave me a big hug.  She is not a very kind of girl that gives hugs a lot, so when I got a hug, it was just wonderful.","A happy moment was when my granddaughter gave me a big hug.  She is not a very kind of girl that gives hugs a lot, so when I got a hug, it was just wonderful.",True,2,,affection
+27848,728,24h,"In the past 24 hours, what made me happy was my Mother's day card from my 7 year old son where had written the kindest, sweetest note surrounded by the most beautiful drawing. ","In the past 24 hours, what made me happy was my Mother's day card from my 7 year old son where had written the kindest, sweetest note surrounded by the most beautiful drawing. ",True,1,,affection
+27849,1115,24h,I went for a long run on a trail near my house.,I went for a long run on a trail near my house.,True,1,,exercise
+27850,3400,24h,"I came home from work and my dog was wagging her tail. I was previously convinced that she hurt it yesterday because she wasn't wagging.
+","I came home from work and my dog was wagging her tail. I was previously convinced that she hurt it yesterday because she wasn't wagging.
+",True,2,,affection
+27851,158,24h,i got engaged with my lover yesterday,i got engaged with my lover yesterday,True,1,,affection
+27852,86,24h,I was able to do a full hour of research on a topic that had been nagging me. ,I was able to do a full hour of research on a topic that had been nagging me. ,True,1,,achievement
+27853,5050,24h,I was playing rock band with my family.,I was playing rock band with my family.,True,1,,affection
+27854,1,24h,My wife and i are celebrating our ten year anniversary today.,My wife and i are celebrating our ten year anniversary today.,True,1,,affection
+27855,12107,24h,I was happy when my daughter called me from across the country.,I was happy when my daughter called me from across the country.,True,1,,affection
+27856,26,24h,my daughter came first in her sports race . i was feeling proud,my daughter came first in her sports race . i was feeling proud,True,2,,affection
+27857,2333,24h,Well yesterday started off  early waking up at 5 am to do mturk  task and I woke up to find  I got a unexpected bonus. Being someone just  hardly scraping by  between disability checks  and  some small side jobs  that dont  pay  enough to cover the bills  even a  75 cent bonus   is a help  and honestly its  just nice  to see  my work is helping.  ,Well yesterday started off  early waking up at 5 am to do mturk  task and I woke up to find  I got a unexpected bonus. Being someone just  hardly scraping by  between disability checks  and  some small side jobs  that dont  pay  enough to cover the bills  even a  75 cent bonus   is a help  and honestly its  just nice  to see  my work is helping.  ,True,2,,achievement
+27858,1232,24h,after 2 month i bought new tcl 32 inch led tv its looks cool and i reaily loved it,after 2 month i bought new tcl 32 inch led tv its looks cool and i really loved it,False,1,,achievement
+27859,570,24h,Solving an engineering mechanics problem made me happy.,Solving an engineering mechanics problem made me happy.,True,1,,achievement
+27860,746,24h,I went to lunch with my girlfriend and her family,I went to lunch with my girlfriend and her family,True,1,affection,affection
+27861,4545,24h,I took my dog to walk around our local park. It was almost 70 degrees and was a beautiful day.,I took my dog to walk around our local park. It was almost 70 degrees and was a beautiful day.,True,2,,affection
+27862,1844,24h,I woke up and took care of my daughter.  She was so smiley first thing in the morning.  It was so amazing seeing all those smiles.,I woke up and took care of my daughter.  She was so smiley first thing in the morning.  It was so amazing seeing all those smiles.,True,3,,affection
+27863,847,24h,I was happy when I realized my biggest concern was how I sang after drinking.,I was happy when I realized my biggest concern was how I sang after drinking.,True,1,,achievement
+27864,2394,24h,When i got to the train station it just pulled up and i was able to get a seat. ,When i got to the train station it just pulled up and i was able to get a seat. ,True,1,,achievement
+27865,8938,24h,"My wife told me that despite my having lost overtime hours, she is happy to have me around her more.  ","My wife told me that despite my having lost overtime hours, she is happy to have me around her more.  ",True,1,affection,affection
+27866,2030,24h,I went to support my cousin in her product launch last night and I was so happy and proud to watch her shine.,I went to support my cousin in her product launch last night and I was so happy and proud to watch her shine.,True,1,,affection
+27867,103,24h,"I went to the park with my son after work yesterday.
+
+","I went to the park with my son after work yesterday.
+
+",True,1,,affection
+27868,2464,24h,My turbo kick class was full last night.,My turbo kick class was full last night.,True,1,,achievement
+27869,1672,24h,I was able to successfully assist a friend in their job search by setting them up with an interview.,I was able to successfully assist a friend in their job search by setting them up with an interview.,True,1,,bonding
+27870,7542,24h,I cooked a new recipe for dinner and it turned out great,I cooked a new recipe for dinner and it turned out great,True,1,,achievement
